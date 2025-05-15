@@ -1,6 +1,6 @@
 # MM-Skin: Enhancing Dermatology Vision-Language Model with an Image-Text Dataset Derived from Textbooks
 
-Paper[[PDF]((https://arxiv.org/abs/2505.06152))] Dataset[[Google Drive](https://drive.google.com/drive/folders/1gAQOpJjzldpqegIcZcKX5_2Wau54taJ4?usp=sharing)] Code[[Github](https://github.com/ZwQ803/MM-Skin/tree/main)]
+Paper[[PDF](https://arxiv.org/abs/2505.06152))] Dataset[[Google Drive](https://drive.google.com/drive/folders/1gAQOpJjzldpqegIcZcKX5_2Wau54taJ4?usp=sharing)] Code[[Github](https://github.com/ZwQ803/MM-Skin/tree/main)]
 
 we propose MM-Skin, a large-scale multimodal dermatology dataset that encompasses 3 imaging modalities, including clinical, dermoscopic, and pathological and nearly 10k high-quality image-text pairs collected from professional textbooks and over 27k vision question answering (VQA) samples.
 
