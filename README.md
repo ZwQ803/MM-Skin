@@ -142,4 +142,16 @@ Data Collection Process
 
 5. **Filtering**: Remove sensitive or annotated images.
 
- [Fig1.pdf](../1project/2MultiSkinModel/fig/Fig1.pdf) 
+## Citation
+
+If you find our work helpful, feel free to give us a cite.
+
+```
+@article{zeng2025mm,
+  title={MM-Skin: Enhancing Dermatology Vision-Language Model with an Image-Text Dataset Derived from Textbooks},
+  author={Zeng, Wenqi and Sun, Yuqi and Ma, Chenxi and Tan, Weimin and Yan, Bo},
+  journal={arXiv preprint arXiv:2505.06152},
+  year={2025}
+}
+```
+
