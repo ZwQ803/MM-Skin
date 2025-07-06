@@ -88,7 +88,7 @@ To evaluate **SkinVL-MM**, **SkinVL-Pub**, and **SkinVL-PubMM**, run:
 python VQA_test.py --model-path MERGED_SKINVL_MODEL
 ```
 
-Replace `caption file` and `image folder` in the script with your dataset paths.
+Replace `caption file` and `image folder` in the script with your dataset paths. We provide preprocessed MM-Skin test data in /Dataframe/test/VQA, which can be used directly for evaluation.
 
 **2. Supervised Fine-Tuning (SFT) Classification**
 
