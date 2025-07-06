@@ -30,11 +30,13 @@ pip install -r requirements.txt
 
 2、Download MM-SkinVL Pre-trained Weights
 
-| Model Name   | Link |
-| ------------ | ---- |
-| SkinVL-MM    | Link |
-| SkinVL-Pub   | Link |
-| SkinVL-PubMM | Link |
+| Model Name   | Link                                               |
+| ------------ | -------------------------------------------------- |
+| SkinVL-MM    | [Link](https://huggingface.co/zwq803/SkinVL-MM)    |
+| SkinVL-Pub   | [Link](https://huggingface.co/zwq803/SkinVL-Pub)   |
+| SkinVL-PubMM | [Link](https://huggingface.co/zwq803/SkinVL-PubMM) |
+
+
 
 
 
